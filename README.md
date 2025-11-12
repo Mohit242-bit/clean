@@ -1,4 +1,4 @@
-# Cleean - Professional Cleaning Services Website
+# Sqeakycleaning - Professional Cleaning Services Website
 
 A modern, professional cleaning services website built with React, Vite, Tailwind CSS, and Framer Motion animations. Perfect for pitching to cleaning service businesses.
 
