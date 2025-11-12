@@ -327,7 +327,7 @@ Your original requirements:
 **Documentation**: Complete
 **Ready to Deploy**: YES
 
-Your Sqeakycleaning services website is ready to impress clients!
+Your Squeaky Clean services website is ready to impress clients!
 
 ---
 

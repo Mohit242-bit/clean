@@ -1,6 +1,6 @@
 # Deployment Guide for Cleean Website
 
-This guide covers everything you need to deploy the Sqeakycleaning services website to production.
+This guide covers everything you need to deploy the Squeaky Clean services website to production.
 
 ## 📋 Pre-Deployment Checklist
 

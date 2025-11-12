@@ -10,7 +10,7 @@ export default function Footer() {
           <div>
             <h3 className="text-2xl font-bold text-primary-400 mb-4">Cleean</h3>
             <p className="text-dark-300">
-              Welcome to a place of refinement and clean. Making home and office cleaning easy for you.
+              Welcome to Squeaky Clean: a place of refinement and sparkle. Making home and office cleaning easy for you.
             </p>
           </div>
 

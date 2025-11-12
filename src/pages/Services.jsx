@@ -6,7 +6,7 @@ export default function ServicesPage() {
     {
       title: 'House Cleaning',
       description: 'Professional house cleaning services tailored to your specific needs.',
-      image: 'https://images.unsplash.com/photo-1527515637460-9cdcb1f5940b?w=600&h=400&fit=crop&q=80',
+      image: 'https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=400&h=300&fit=crop&q=80',
       features: [
         'Bedroom & Living Areas',
         'Kitchen Deep Clean',
@@ -17,7 +17,7 @@ export default function ServicesPage() {
     {
       title: 'Office Cleaning',
       description: 'Keep your business pristine with our professional office cleaning.',
-      image: 'https://images.unsplash.com/photo-1585771724684-38269d6639fd?w=600&h=400&fit=crop&q=80',
+      image: '/office.webp',
       features: [
         'Office Spaces',
         'Retail Environments',
@@ -28,7 +28,7 @@ export default function ServicesPage() {
     {
       title: 'Carpet Cleaning',
       description: 'Deep cleaning and stain removal for carpets, rugs, and upholstery.',
-      image: 'https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=600&h=400&fit=crop&q=80',
+      image: '/carpet.webp',
       features: [
         'Carpet Shampooing',
         'Stain Removal',
@@ -39,7 +39,7 @@ export default function ServicesPage() {
     {
       title: 'Garden Cleaning',
       description: 'Transform your outdoor space with professional garden cleaning.',
-      image: 'https://images.unsplash.com/photo-1466692476868-aef1dfb1e735?w=600&h=400&fit=crop&q=80',
+      image: 'https://images.unsplash.com/photo-1466692476868-aef1dfb1e735?w=400&h=300&fit=crop&q=80',
       features: [
         'Lawn Maintenance',
         'Weed Removal',

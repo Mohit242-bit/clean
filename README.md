@@ -1,6 +1,6 @@
-# Sqeakycleaning - Professional Cleaning Services Website
+# Squeaky Clean - Professional Cleaning Services Website
 
-A modern, professional cleaning services website built with React, Vite, Tailwind CSS, and Framer Motion animations. Perfect for pitching to cleaning service businesses.
+A modern, professional cleaning services website built with React, Vite, Tailwind CSS, and Framer Motion animations. Perfect for pitching to cleaning service businesses under the Squeaky Clean brand.
 
 ## 🎨 Features
 

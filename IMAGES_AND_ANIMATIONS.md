@@ -19,7 +19,7 @@ Updated all service card images to premium, well-lit professional photos:
 
 | Service | New Image | Type |
 |---------|-----------|------|
-| **House Cleaning** | Clean, bright residential space | Professional interior |
+| **House Cleaning** | Sqeakycleaning, bright residential space | Professional interior |
 | **Office Cleaning** | Modern office environment | Corporate/professional |
 | **Home Plumbing** | Professional plumbing work | Service/maintenance |
 | **Garden Cleaning** | Well-maintained outdoor space | Landscape/garden |

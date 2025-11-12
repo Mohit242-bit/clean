@@ -2,7 +2,7 @@
 
 ## 🎯 Project Overview
 
-**Sqeakycleaning** is a professional cleaning services website designed for pitching to cleaning service businesses. Built with modern web technologies (React + Vite + Tailwind CSS), it showcases a professional green design matching the premium Sqeakycleaning template aesthetic.
+**Squeaky Clean** is a professional cleaning services website designed for pitching to cleaning service businesses. Built with modern web technologies (React + Vite + Tailwind CSS), it showcases a professional green design matching the premium Squeaky Clean template aesthetic.
 
 **Status**: ✅ **Production Ready**
 **Build**: ✅ Successful

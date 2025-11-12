@@ -1,6 +1,6 @@
 # 📚 Cleean Website - Documentation Index
 
-Welcome! This file helps you navigate all the documentation for the Sqeakycleaning services website.
+Welcome! This file helps you navigate all the documentation for the Squeaky Clean services website.
 
 ## 🗺️ Documentation Map
 
